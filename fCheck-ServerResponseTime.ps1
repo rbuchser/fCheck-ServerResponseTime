@@ -1,4 +1,4 @@
-﻿Function fCheck-ServerResponseTime {
+Function fCheck-ServerResponseTime {
 	<#
 		.NOTES
 			Author: Buchser Roger
